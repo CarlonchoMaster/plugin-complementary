@@ -1,0 +1,14 @@
+/* phpcs:ignore */
+#adminmenu #menu-posts div.dashicons-admin-post:before {
+    content: url(../svg/file-alt-regular.svg);    
+    padding-top: 3.5px;
+    padding-bottom: 3.5px;
+}
+
+/* #adminmenu #menu-posts-post_css div.dashicons-before img {
+    display: inline-block;
+    width: 80%;
+    height: 80%;  
+    padding-top: 3.5px;  
+    opacity: 1;
+ }*/
