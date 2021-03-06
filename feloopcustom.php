@@ -37,6 +37,8 @@ if (!defined('FELOOPC_PATH')) {
     define('FELOOPC_PATH', __FILE__);
 }
 
+// Helper Functions
+require_once 'includes/helpers.php';
 
 // Load plugin class files.
 require_once 'includes/class-feloopcustom.php';
